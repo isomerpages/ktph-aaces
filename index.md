@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Home
           description: Important highlight A is important
-          url: https://cms.isomer.gov.sg/sites/ktph-aaces/homepage
+          url: /Homepage/
         - title: About Us
           description: Important highlight B is equally important
           url: /example-page/
@@ -42,4 +42,3 @@ sections:
       subtitle: Resources Section Subtitle
       button: Resources Button Name
 ---
-
