@@ -18,7 +18,7 @@ sections:
           url: https://cms.isomer.gov.sg/sites/ktph-aaces/homepage
         - title: About Us
           description: Important highlight B is equally important
-          url: https://gmail.com
+          url: /example-page/
         - title: Clinical Care
           description: Page A is important too
           url: /privacy/
