@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Home
           description: Important highlight A is important
-          url: /Homepage/
+          url: /homepage/
         - title: About Us
           description: Important highlight B is equally important
           url: /example-page/
