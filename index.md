@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: GeriCare
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -42,3 +42,4 @@ sections:
       subtitle: Resources Section Subtitle
       button: Resources Button Name
 ---
+
