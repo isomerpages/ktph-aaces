@@ -35,8 +35,10 @@ sections:
       title: Infopic Title
       subtitle: Infopic Subtitle
       description: Infopic description
-      button: Button Text
+      button: Button Text (press to go to link)
       alt: Image alt text
+      image: /images/Lect_badmintion_Happy.png
+      url: https://www.youtube.com/watch?v=k8AuX2qQNa0&ab_channel=GeriCare
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
